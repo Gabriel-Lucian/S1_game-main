@@ -1,1 +1,1 @@
-# S1 - Marvin the Galaxy Typer
+# Marvin the Galaxy Typer
