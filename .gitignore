@@ -1,0 +1,12 @@
+.vscode
+__pycache__
+*/__pycache__
+.pylintrc
+.vscode
+.env
+env
+.venv
+main.spec
+build
+dist
+prodev_env
